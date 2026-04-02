@@ -9,9 +9,9 @@ Statistical Data Science master's student at San Francisco State University. I e
 - PCOS Diagnosis
   - compared machine learning algorithm's accuracies 
 - Water Crisis in India
-  - performed exploratory analysis, created visualizations and maps
+  - performed exploratory analysis and created visualizations and maps
 - Food Price Inflation
-  - forecasted the food price inflation in the US, time series analysis
+  - forecasted the food price inflation in the US using time series analysis
 
 ## Contact
 
