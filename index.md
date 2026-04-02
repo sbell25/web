@@ -16,4 +16,5 @@ Statistical Data Science master's student at San Francisco State University. I e
 ## Contact
 
 E-mail: samantha25bell@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/samantha-bell-76229a273/
