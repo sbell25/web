@@ -6,7 +6,7 @@ Statistical Data Science master's student at San Francisco State University with
 
 ## Projects
 
-- [PCOS Diagnosis] (https://github.com/sbell25/PCOS-Diagnosis)
+[PCOS Diagnosis] (https://github.com/sbell25/PCOS-Diagnosis)
   - compared machine learning algorithm's accuracies 
 - Water Crisis in India
   - performed exploratory analysis and created visualizations and maps
