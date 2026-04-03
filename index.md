@@ -1,6 +1,6 @@
 # Samantha Bell
 
-![alt text]("C:\Users\theresa\Downloads\mepic.png")
+![alt text](C:/Users/theresa/Downloads/mepic.png)
 
 ## About
 
