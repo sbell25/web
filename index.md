@@ -1,6 +1,6 @@
 # Samantha Bell
 
-![alt text](C:/Users/theresa/Downloads/mepic.png)
+My resume: [Download](C:/Users/theresa/OneDrive/Documents/resume2026.docx.pdf){downlaod=""}
 
 ## About
 
