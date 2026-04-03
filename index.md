@@ -1,7 +1,6 @@
 # Samantha Bell
 
-My resume: [Download](https://github.com/sbell25/Resume/blob/main/resume2026.docx.pdf)
-[download](https://github.com/sbell25/Resume/blob/5b5e40fffa812edf85c3d0fa06e447d49d142819/resume2026.docx.pdf)
+My resume: [Download](https://github.com/sbell25/Resume/raw/5b5e40fffa812edf85c3d0fa06e447d49d142819/resume2026.docx.pdf)
 
 ## About
 
