@@ -1,6 +1,6 @@
 # Samantha Bell
 
-My resume: [Download]([C:/Users/theresa/OneDrive/Documents/resume2026.docx.pdf](https://github.com/sbell25/Resume/blob/main/resume2026.docx.pdf)){download=""}
+My resume: [Download]([C:/Users/theresa/OneDrive/Documents/resume2026.docx.pdf](https://github.com/sbell25/Resume/blob/main/resume2026.docx.pdf))
 
 ## About
 
