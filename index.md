@@ -1,10 +1,12 @@
 # Samantha Bell
 
+Statistical Data Science master's student at San Francisco State University with a BS in Mathematics. My courseworks and projects cover topics such as time series analysis, geospatial analysis, and statistical analysis.
+
 My resume: [Download](https://github.com/sbell25/Resume/raw/5b5e40fffa812edf85c3d0fa06e447d49d142819/resume2026.docx.pdf)
 
 ## About
 
-Statistical Data Science master's student at San Francisco State University with a BS in Mathematics. I enjoy applying my problem solving skills and creative thinking towards environmental and social issues. In my freetime, I like to crochet, collect movies, and hang out with my cats.
+Aspiring to become an environmental data scientist, I enjoy applying my problem solving skills and creative thinking towards environmental and social issues. In my freetime, I like to crochet, collect movies, and hang out with my cats.
 
 ## Projects
 
