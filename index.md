@@ -1,6 +1,6 @@
 # Samantha Bell
 
-My resume: [Download](C:/Users/theresa/OneDrive/Documents/resume2026.docx.pdf){downlaod=""}
+My resume: [Download](C:/Users/theresa/OneDrive/Documents/resume2026.docx.pdf){download=""}
 
 ## About
 
