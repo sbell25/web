@@ -10,7 +10,7 @@ Statistical Data Science master's student at San Francisco State University with
   - compared machine learning algorithm's accuracies 
 - [Water Crisis in India](https://github.com/sbell25/Water-Stress-Index)
   - performed exploratory analysis and created visualizations and maps
-- [Food Price Inflation]
+- [Food Price Inflation](https://github.com/sbell25/Food-Price-Inflation)
   - forecasted the food price inflation in the US using time series analysis
 
 ## Contact
