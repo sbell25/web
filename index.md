@@ -1,5 +1,7 @@
 # Samantha Bell
 
+![alt text](C:/Users/theresa/Pictures/mepic.jpg)
+
 ## About
 
 Statistical Data Science master's student at San Francisco State University with a BS in Mathematics. I enjoy applying my problem solving skills and creative thinking towards environmental and social issues. In my freetime, I like to crochet, collect movies, and hang out with my cats.
